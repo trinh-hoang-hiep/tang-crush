@@ -3,7 +3,7 @@ const CONFIG = {
     introDesc: `Tớ có điều này muốn hỏi cậu, nhớ phải trả lời thật lòng nha`,
     btnIntro: 'oke',
     title: 'Cậu yêu tớ có phải không 😙',
-    desc: 'Cậu không trả lời hoặc thoát ra, tức là cậu là vợ tớ đó nha :> ',
+    desc: 'Cậu không trả lời hoặc thoát ra, tức là cậu thích tớ đó nha :> ',
     btnYes: 'yêu ơi là iuuu <33',
     btnNo: 'cậu mơ à :333',
     question:'Nói cho tới lý do vì sao cậu yêu tớ đii <3',
@@ -12,5 +12,5 @@ const CONFIG = {
     mess: 'Tớ biết mà 🥰. Love you 300.000 😘😘',
     messDesc: 'còn giờ thì chờ gì nữa mà không inbox cho tớ đi nào.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://m.me/hiep.t.hoang.10' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
